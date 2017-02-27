@@ -12,6 +12,7 @@
 ```
 git clone https://github.com/vickyzhu2017/github-notetaker-reactJS.git
 cd github-notetaker-reactJS
+npm install
 npm run start 
 ```
  
